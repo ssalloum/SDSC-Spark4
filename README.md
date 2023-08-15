@@ -1,2 +1,2 @@
-# spark4
-Spark Workshop at SDSC
+# SDSC-Spark4
+Workshop at SDSC: Distributed Machine Learning with Apache Spark
