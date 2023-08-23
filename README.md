@@ -1,2 +1,3 @@
 # SDSC-Spark4
-Workshop at SDSC: Distributed Machine Learning with Apache Spark
+**Distributed Machine Learning with Apache Spark**
+This is the 4th Workshop on Apache Spark at Singapore Data Science Consortium (SDSC).  
